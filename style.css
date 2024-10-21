@@ -1,0 +1,62 @@
+#cima{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    background-color: rgb(177, 177, 232);
+}
+#contato{
+    font-size: 2.5vw;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1464178634217-fdda7ccaf33d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D);
+    height: 2000px;
+}
+main{
+    display: flex;
+}
+#nom{
+    font-size: 3.0vw;
+    font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+}
+#texto{
+    padding-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px ;
+    text-align: center;
+}
+
+#fundo{
+
+    margin-top: 300px;
+    margin-left: 100px;
+    height: 800px;
+    width: 90%;
+    border-radius: 30px;
+   background-color:  rgb(177, 177, 232);
+   z-index: 1;
+   
+}
+#minha{
+    margin-left: 900px;
+    margin-bottom: 300px;
+    z-index: 10;
+    height: 100px;
+    width: 100px;
+}
+#tiktok{
+    font-size: 2.5vw;
+    padding-left: 20px;
+    
+
+}
+#github{
+    font-size: 2.5vw;
+    padding-left: 20px;
+}
+#gale{
+    font-size: 2.5vw;
+    padding-left: 850px;
+}
